@@ -32,7 +32,7 @@
 <a href="https://www.devaanuad.com/">
   <img align="left" alt="devaanuad Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
 </a>
-<a href="https://mailto:arkaandevaanu@gmail.com/">
+<a href="mailto:arkaandevaanu@gmail.com">
   <img align="left" alt="devaanuad email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <!-- <a href="https://www.hackerrank.com/devaanuad/">
