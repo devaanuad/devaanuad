@@ -1,46 +1,46 @@
-<p  align="center"><img src = "https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/intro.gif"></p>
+<p  align="center"><img src = "https://github.com/devaanuad/devaanuad/blob/master/assets/bg-dep.jpeg" height="400px" width="1013px"></p>
+
+
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syedareehaquasar)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=syedareehaquasar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/syedareehaquasar/syedareehaquasar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/syedareehaquasar/syedareehaquasar/actions">
-   <img alt="github-activity" src="https://github.com/syedareehaquasar/syedareehaquasar/workflows/update-gh-activity/badge.svg">
-  </a> -->
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=devaanuad&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/devaanuad/devaanuad?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ 
 
-<a href="https://twitter.com/QuasarReeha">
+<a href="https://twitter.com/devaanuad">
   <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/syeda-reeha-quasar-625a16118/">
+<a href="https://www.linkedin.com/in/devaanuad/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/syedareehaquasar">
+<a href="https://github.com/devaanuad">
   <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/syedareehaquasar">
+<a href="https://t.me/devaanuad">
   <img align="left" alt="Reeha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/syeda_reeha_quasar/">
+<a href="https://instagram.com/devaanuad/">
   <img align="left" alt="Reeha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/syeda_reeha_quasar/">
+<a href="https://www.facebook.com/devaanuad/">
   <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://www.hackerrank.com/syedareehaquasar/">
+<!-- <a href="https://www.hackerrank.com/devaanuad/">
   <img align="left" alt="Reeha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>-->
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp;
-I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from Maharaja Agrasen Institute of Technology, Guru Gobind Singh Indraprastha University 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
+### Glad to see you here!
+An adaptable person in Software Engineering with a combined 2+ years of experience designing and developing website applications 🕸️, which are user-focused to a perfect end 💡. Familiar with working under great pressure in a dynamic individual or team ✨, good problem solving skills 💻, and a desire to never stop learning 🤓.
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/devaanuad/devaanuad/master/assets/gifs/coder.gif" />
 
 
 ### Know more about me:
