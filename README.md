@@ -119,7 +119,7 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 
-<p align=""> <img src="https://octodex.github.com/images/nyantocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/boxertocat_octodex.jpg" height="160px" width="160px"> </p>
+<p align=""> <img src="https://octodex.github.com/images/nyantocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/boxertocat_octodex.jpg" height="160px" width="160px"> </p>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{devaanuad}/count.svg)
