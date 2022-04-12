@@ -12,7 +12,7 @@
  
 
 <a href="https://twitter.com/devaanuad">
-  <img align="left" alt="Reeha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="devaanuad Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/devaanuad/">
   <img align="left" alt="devaanuad Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
