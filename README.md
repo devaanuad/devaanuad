@@ -1,6 +1,6 @@
-<p  align="center"><img src = "https://github.com/devaanuad/devaanuad/blob/master/assets/bg-dep.jpeg" height="400px" width="1013px"></p>
+<!-- <p  align="center"><img src = "https://github.com/devaanuad/devaanuad/blob/master/assets/bg-dep.jpeg" height="400px" width="1013px"></p>
 
-
+ -->
 
 ## Hello World ! <img src="https://raw.githubusercontent.com/devaanuad/devaanuad/master/assets/gifs/Hi.gif" width="30px"></h2>
 <br />
