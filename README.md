@@ -122,11 +122,11 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 <p align=""><img width="50%" src="https://github-readme-stats.vercel.app/api?username=devaanuad&show_icons=true" /></p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
+<!-- 
+<p align=""> <img src="https://octodex.github.com/images/nyantocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/boxertocat_octodex.jpg" height="160px" width="160px"> </p> -->
 
-<p align=""> <img src="https://octodex.github.com/images/nyantocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/boxertocat_octodex.jpg" height="160px" width="160px"> </p>
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{devaanuad}/count.svg)
+<!-- **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{devaanuad}/count.svg) -->
 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
 
@@ -135,13 +135,13 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
 
-<h3>🏆 Github Profile Trophy</h3>
+<!-- <h3>🏆 Github Profile Trophy</h3>
 <p align="">
 <a href="https://github.com/devaanuad">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devaanuad&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-  </p>
+  </p> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devaanuad&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=devaanuad&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
+<!-- ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=devaanuad&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true) -->
