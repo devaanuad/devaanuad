@@ -47,7 +47,7 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 <br />
 
 <!-- <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/devaanuad/devaanuad/master/assets/gifs/coder.gif" /> -->
-<img align="right" height="700" width="375" alt="GIF" src="https://github.com/devaanuad/devaanuad/blob/master/assets/mobile.png" />
+<!-- <img align="right" height="700" width="375" alt="GIF" src="https://github.com/devaanuad/devaanuad/blob/master/assets/mobile.png" /> -->
 
 
 ### Know more about me :
