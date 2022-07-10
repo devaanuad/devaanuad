@@ -119,7 +119,7 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 
 
 <!-- INI RANK -->
-<p align=""><img width="50%" src="https://github-readme-stats.vercel.app/api?username=devaanuad&show_icons=true" /></p>
+<p align=""><img src="https://github-readme-stats.vercel.app/api?username=devaanuad&show_icons=true&theme=dracula" width="400"></p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 <!-- 
