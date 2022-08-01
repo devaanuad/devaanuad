@@ -50,15 +50,14 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 <!-- <img align="right" height="700" width="375" alt="GIF" src="https://github.com/devaanuad/devaanuad/blob/master/assets/mobile.png" /> -->
 
 
-### Know more about me :
+<!-- ### Know more about me :
 
 - 🔭 I'm currently exploring mobile development 🚀.
 - 🌱 I'm currently learning the latest Technology and learning about various algorithms 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
-- 📫 How to reach me: Linkedin (preferable)
+- 📫 How to reach me: Linkedin (preferable) -->
 <!-- - ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a> -->
 
-<br>
 <br>
 
 <!-- ![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -100,7 +99,6 @@ An adaptable person in Software Engineering with a combined 2+ years of experien
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
